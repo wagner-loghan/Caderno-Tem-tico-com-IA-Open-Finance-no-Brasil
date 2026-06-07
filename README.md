@@ -64,7 +64,7 @@ Com base nas fontes carregadas, explique o que é Open Finance no Brasil
 e quais foram as fases de implementação definidas pelo Banco Central.
 ```
 
-**Resposta obtida:** Muito melhor. A IA trouxe as quatro fases do Open Finance com referência direta ao portal do Banco Central. A resposta estava ancorada no material real. **OBS**: *Problema parcial identificado*: Mesmo com as fontes a IA não achou informação suficiente, apenas uma referencia com potencial de afirmidade de 80%, acionei a pergunta padrão sugerida pelo notebook que procurou na web, o restante da informação requerida pela pergunta do prompt. PS: Adicionei mais 8 fontes para obter pode de informação complementar.  
+**Resposta obtida:** Muito melhor. A IA trouxe as quatro fases do Open Finance com referência direta ao portal do Banco Central. A resposta estava ancorada no material real. **OBS**: *Problema parcial identificado*: Mesmo com as fontes a IA não achou informação suficiente, apenas uma referencia com potencial de afirmidade de 80%, acionei a pergunta padrão sugerida pelo notebook que procurou na web, o restante da informação requerida pela pergunta do prompt. PS: Adicionei mais 8 fontes para obter poder de informação complementar.  
 
 **O que aprendi:** Pedir que a IA use as fontes carregadas faz uma diferença enorme na qualidade e na confiabilidade da resposta, mas deve-se atenta-se para as fontes e seu potencial de confiabilidade.
 
